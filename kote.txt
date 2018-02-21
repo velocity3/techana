@@ -1,2 +1,3 @@
-bira - 1000
+bira - 2000
 rakiq - 400000
+vino - 300
